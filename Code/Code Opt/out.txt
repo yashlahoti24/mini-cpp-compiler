@@ -1,0 +1,5 @@
+T1 = 3 + b
+2 = c * e
+T4 = not x
+if T4 goto L0
+T5 = 8 + e
